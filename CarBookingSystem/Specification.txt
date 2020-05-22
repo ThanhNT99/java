@@ -1,0 +1,13 @@
+This is a Java console program including some classes for a Car Booking System. There are four classes: Car, Driver, Customer, Booking  
+
+Classes have sample fields and methods as follow (add your own code if needed) 
+ 
+o Car: ▪ Fields: RegistrationNo, Make, Model, Occupancy, DriverID ▪ Method: getFreeCar(), … o Driver: ▪ Fields: ID, name, phoneno, address, rate, … ▪ Methods: getFreeDriver(), … 
+ 
+o Customer: ▪ Fields: ID, name, email, phoneno, … ▪ Methods: getCustomerInfor(), .. 
+ 
+o Booking: ▪ Fields: booking_id, pickup_city, pickup_location, drop_location, CustomerID, DriverID ▪ Methods: addbooking(), showbooking() 
+
+Implement methods to execute following functions: 
+- Create a car booking from location A to location B 
+- Display the booking detail (customer, driver, car) 
